@@ -3,8 +3,6 @@ from pages.base_page import BasePage
 from tests.test_data import TestData
 from pages.locators import NewAccountPageLocators
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from time import sleep
 
 class NewAccountPage(BasePage):
 
