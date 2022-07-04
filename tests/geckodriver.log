@@ -1,0 +1,45 @@
+1656769284389	geckodriver	INFO	Listening on 127.0.0.1:53944
+1656769284712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53945" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/04/qmpxllg928j63k_9fv4myjsw0000gn/T/rust_mozprofilegtH0HU"
+1656769286297	Marionette	INFO	Marionette enabled
+1656769286373	Marionette	INFO	Listening on port 53960
+Read port: 53960
+2022-07-02 15:41:26.382 plugin-container[61586:13151260] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 15:41:26.384 plugin-container[61586:13151260] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:53945
+2022-07-02 15:41:26.455 plugin-container[61586:13151260] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 15:41:26.455 plugin-container[61586:13151260] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-02 15:41:26.456 plugin-container[61586:13151279] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 15:41:26.456 plugin-container[61586:13151279] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1656769286952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/04/qmpxllg928j63k_9fv4myjsw0000gn/T/rust_mozprofilegtH0HU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53945/devtools/browser/b05fecde-0ba5-402c-b6a3-1e8aaaa77cd0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+JavaScript warning: https://beacon.riskified.com/?shop=vitkac.com&sid=bc3c3b75013feab1c7d347034a3179b7, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-07-02 13:41:40.841 plugin-container[61595:13151658] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 13:41:40.841 plugin-container[61595:13151658] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-02 13:41:40.905 plugin-container[61595:13151658] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 13:41:40.905 plugin-container[61595:13151658] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-02 13:41:40.907 plugin-container[61595:13151674] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 13:41:40.907 plugin-container[61595:13151674] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://beacon.riskified.com/?shop=vitkac.com&sid=bc3c3b75013feab1c7d347034a3179b7, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.vitkac.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656769304869	Marionette	INFO	Stopped listening on port 53960
+JavaScript warning: https://beacon.riskified.com/?shop=vitkac.com&sid=bc3c3b75013feab1c7d347034a3179b7, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
