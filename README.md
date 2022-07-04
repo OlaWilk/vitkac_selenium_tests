@@ -7,7 +7,7 @@ Automation test project which includes 2 tests:
 First one - in the *new_account_test* file
 - registers new user with wrong e-mail, 
 - fills out the registration form,
-- checks content after unsuccessful attempt.
+- checks content after an unsuccessful attempt.
 
 Second one - in the *purchase_test* file
 - checks the ability to adding products to the basket,
